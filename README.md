@@ -3,4 +3,4 @@ Entwicklung und VALidierung von Erdbeobachtungsbasierten Indikatoren für das Mo
 
 ## GRASS Addons
 Im Zuge des Projekts wurden folgende GRASS Addons erstellt:
-- [i.sar.download_asf](https://github.com/mundialis/i.sar.download_asf)
+- [i.sar.download_asf](https://github.com/mundialis/i.sar.download_asf): Searches and downloads SAR data from the Alaska Satellite Facility.
