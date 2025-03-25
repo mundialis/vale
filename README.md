@@ -16,3 +16,11 @@ Urrutia II, J.M., Scheffczyk, K., Riembauer, G., Mendoza, J., Yanez, D., Jímene
 Abstract: The lack of data on disaster-related loss and damage, especially in developing countries, obstructs the implementation of the Sendai Framework for Disaster Risk Reduction (SFDRR). This weakens the accuracy, timeliness, and quality of the SFDRR monitoring process at the national level. This is the case for the country of Ecuador, who has not reported on the progress of SFDRR Target B, indicator B-5a, the number of workers in agriculture with crops damaged or destroyed. Consequently, this research developed a geospatial model approach to model indicator B-5a in the context of flooding. The model uses Sentinel-1 synthetic aperture radar and other spatial data to quantify indicator B-5a at a cantonal spatial level across three ecological regions in Ecuador. The results of the model were validated against country provided in-situ measured loss and damage reference data by combining elements of flood exposure and vulnerability. A statistical analysis was used to assess the agreement of the models with reference data and the models' ability to reproduce the reference data. The validation procedure produced models that had high agreement with the reference data, but the models were sensitive to the different ecological regions. This validated geospatial model approach is, to the best of the authors' knowledge, the first attempt to validate geospatially measured Sendai indicators against reference data, and provides an opportunity to support countries without information on disaster-related loss and damage in monitoring indicator B-5a of the SFDRR.
 
 Keywords: Monitoring; Sendai Framework; Affected people; Disaster Risk Reduction; Flood; Ecuador
+
+## Factsheet
+
+[VALE Factsheet](https://www.d-copernicus.de/fileadmin/Content/News/VALE_FactSheet_w_Frontpage_final_EN.pdf)
+
+## Funding
+
+This work was supported by the German Federal Ministry for Economic Affairs and Energy (BMWi) in the context of the VALE (Development and Validation of Earth Observation-Based Indicators for the Monitoring of the Sendai Framework Using the Example of Flooding in Ecuador) project (grant number: 50 EE 1920 A).
